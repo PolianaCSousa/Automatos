@@ -12,3 +12,4 @@ Readme pra usar no GitKraken
 
 Alteraçao feita depois do desenho do Among us
 Essa linha eu escrevi dentro do GitKraken quando resolvi o conflitos dos commits
+Comitando algo que sera descomitado
